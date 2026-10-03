@@ -1,11 +1,11 @@
 {
-    "name": "Ninth Scout - الكشافة التاسعة",
+    "name": "Ninth Scout - الكشاف التاسع",
     "short_name": "Ninth Scout",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#1B5E20",
     "theme_color": "#1B5E20",
-    "description": "الكشافة التاسعة — منصة أنشطة وأخبار الفرقة الكشفية.",
+    "description": "الكشاف التاسع — منصة أنشطة وأخبار الفرقة الكشفية.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
